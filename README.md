@@ -8,10 +8,9 @@
 
 Name | Link 
 -----| -----
-Growth Mindset | [Go To](https://emadidris.github.io/reading-notes01/GrowthMindset)
-Github         | [Go To](https://emadidris.github.io/reading-notes01/Github)
-MarkDown       | [Go To](https://emadidris.github.io/reading-notes01/MarkDown)
-VCS            | [Go To](https://emadidris.github.io/reading-notes01/VCS)
-Read02         | [Go To](https://emadidris.github.io/reading-notes01/Read02)
-Read03         | [Go To]()
-Read04         | [Go To]
+Growth Mindset | [Go To](https://emadidris.github.io/Reading-notes02/GrowthMindset)
+Github         | [Go To](https://emadidris.github.io/Reading-notes02/Github)
+MarkDown       | [Go To](https://emadidris.github.io/Reading-notes02/MarkDown)
+Read02         | [Go To](https://emadidris.github.io/Reading-notes02/Read02)
+Read03         | [Go To](https://emadidris.github.io/Reading-notes02/Read03)
+Read04         | [Go To](https://emadidris.github.io/Reading-notes02/Read04)
